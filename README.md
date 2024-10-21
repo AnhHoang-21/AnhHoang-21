@@ -5,7 +5,6 @@
 📫 How to reach me
 - Mail: **anh.hoang.ds@outlook.com**
 -  <a href="https://github.com/AnhHoang-21" target="_blank" style="text-decoration:none;">
-    GitHub 
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20" style="vertical-align:middle;"/>
     https://github.com/AnhHoang-21
   </a>
