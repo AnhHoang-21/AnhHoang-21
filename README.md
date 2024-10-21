@@ -3,8 +3,7 @@
 
  📫 How to reach me
 - Mail: **anh.hoang.ds@outlook.com**
-- GitHub: 
-  <a href="https://github.com/AnhHoang-21" target="_blank">
+- <a href="https://github.com/AnhHoang-21" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20"/>
     <https://github.com/AnhHoang-21>
   </a>
