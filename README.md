@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anh Hoang</h1>
 <h3 align="center">Data Analyst</h3>
 
- 📫 How to reach me
+👯 I’m looking to collaborate on **Data Analytics | Data Science**
+📫 How to reach me
 - Mail: **anh.hoang.ds@outlook.com**
-- </a> href="https://github.com/AnhHoang-21" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20"/>
-    <https://github.com/AnhHoang-21>
+-  <a href="https://github.com/AnhHoang-21" target="_blank" style="text-decoration:none;">
+    GitHub 
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20" style="vertical-align:middle;"/>
   </a>
-  </a>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
