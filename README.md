@@ -4,11 +4,10 @@
 👯 I’m looking to collaborate on **Data Analytics | Data Science**
 
 📫 How to reach me
-- Mail: **anh.hoang.ds@outlook.com**
 
 <a href="skype:live:your_skype_id?chat" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/skype.png" alt="Skype" width="20" height="20" style="vertical-align:middle;"/>
-    Skype: [live:your_skype_id](https://join.skype.com/invite/sgeAu8m4dl2e)
+Skype: [live:your_skype_id](https://join.skype.com/invite/sgeAu8m4dl2e)
 </a>
 
 -  <a href="https://github.com/AnhHoang-21" target="_blank" style="text-decoration:none;">
