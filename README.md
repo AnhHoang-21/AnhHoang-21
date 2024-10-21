@@ -3,7 +3,8 @@
 
 👯 I’m looking to collaborate on **Data Analytics | Data Science**
 
-📫 How to reach me
+📫 How to reach me:
+
 Skype:
 <a href="skype:live:your_skype_id?chat" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/skype.png" alt="Skype" width="20" height="20" style="vertical-align:middle;"/>
