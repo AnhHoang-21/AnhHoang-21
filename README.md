@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anh Hoang</h1>
+[<h1 align="center">Hi 👋, I'm Anh Hoang</h1>
 <h3 align="center">Data Analyst</h3>
 
 - 📫 How to reach me **anh.hoang.ds@outlook.com**
@@ -31,9 +31,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> 
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+</a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> 
+</a>
 </p>
+](https://github.com/AnhHoang-21)
