@@ -2,6 +2,10 @@
 <h3 align="center">Data Analyst</h3>
 
 - 📫 How to reach me **anh.hoang.ds@outlook.com**
+- GitHub Link: 
+  <a href="https://github.com/AnhHoang-21" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20"/>
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,4 +41,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> 
 </a>
 </p>
-GitHub Link: (https://github.com/AnhHoang-21)
