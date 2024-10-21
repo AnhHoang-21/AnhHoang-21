@@ -3,14 +3,11 @@
 
 - 📫 How to reach me **anh.hoang.ds@outlook.com**
 - GitHub Link: 
-  <a href="https://github.com/AnhHoang-21" target="_blank" style="text-decoration:none;">
-    GitHub 
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20" style="vertical-align:middle;"/>
+  <a href="https://github.com/AnhHoang-21" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20"/>
+    <https://github.com/AnhHoang-21>
   </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
