@@ -7,10 +7,6 @@
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20"/>
     <https://github.com/AnhHoang-21>
   </a>
-- Skype: 
-  <a href="skype:live:your_skype_id?chat" target="_blank" style="text-decoration:none;">
-    Skype 
-    <img src="https://img.icons8.com/ios-filled/50/000000/skype.png" alt="Skype" width="20" height="20" style="vertical-align:middle;"/>
   </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
