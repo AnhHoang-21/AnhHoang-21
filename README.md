@@ -8,7 +8,7 @@
 Skype:
 <a href="skype:live:your_skype_id?chat" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/skype.png" alt="Skype" width="20" height="20" style="vertical-align:middle;"/>
-(https://join.skype.com/invite/sgeAu8m4dl2e)
+https://join.skype.com/invite/sgeAu8m4dl2e
 </a>
 
 -  <a href="https://github.com/AnhHoang-21" target="_blank" style="text-decoration:none;">
