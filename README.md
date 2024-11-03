@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anh Hoang</h1>
 <h3 align="center">Data Analyst</h3>
 
-👯 I’m looking to collaborate on **Data Analytics | Data Science**
+🤝 I’m looking to collaborate on **Data Analytics | Data Science**
 
 📫 How to contact me:
 
