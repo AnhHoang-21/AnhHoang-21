@@ -11,10 +11,6 @@ Skype:
 https://join.skype.com/invite/sgeAu8m4dl2e
 </a>
 
-GitHub:  <a href="https://github.com/AnhHoang-21" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="20" height="20" style="vertical-align:middle;"/>
-    https://github.com/AnhHoang-21
-  </a>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
