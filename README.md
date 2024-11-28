@@ -37,5 +37,9 @@ https://join.skype.com/invite/sgeAu8m4dl2e
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+
+
+      ![Screenshot 2024-11-27 143236](https://github.com/user-attachments/assets/b248bbcd-cefb-437f-8c9a-52b129b7afd2)
+
 </a>
 </p>
